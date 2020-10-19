@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+
+#container{
+    text-align: center;
+    background-color: #E1E4DE;
+}
+.title{
+    width: 100%;
+}
+#header{
+    width: 100%;
+    text-align: center;
+    background-color: #ffc720;
+}
+#footer{
+    width: 100%;
+    text-align: center;
+}
+
+.product{
+    width: 33.33%;
+    float: left;
+    position: relative;
+}
+.name{
+    margin-top: 2px;
+    color: green;
+}
+.subheading{
+    width: 100%;
+    text-align: center;
+}
